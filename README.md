@@ -1,3 +1,4 @@
+<img width="438" height="363" alt="Ekran görüntüsü 2026-04-14 222924" src="https://github.com/user-attachments/assets/c7b8d5ce-f0f4-4e06-af63-7fe8cf3c0e8a" />
 # kayseri-smart-transportation-backend
 
 # 🚌 Kayseri Akıllı Ulaşım Analizörü (Spring Boot)
