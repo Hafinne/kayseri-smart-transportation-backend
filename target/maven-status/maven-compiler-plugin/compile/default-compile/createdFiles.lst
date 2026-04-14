@@ -1,0 +1,9 @@
+com\kayseri\akillihatanalizoru\repository\BusRepository.class
+com\kayseri\akillihatanalizoru\entity\Station.class
+com\kayseri\akillihatanalizoru\controller\RecommendationController.class
+com\kayseri\akillihatanalizoru\repository\StationRepository.class
+com\kayseri\akillihatanalizoru\AkilliHatAnalizoruApplication.class
+com\kayseri\akillihatanalizoru\dto\BusRecommendation.class
+com\kayseri\akillihatanalizoru\controller\DataController.class
+com\kayseri\akillihatanalizoru\service\RecommendationService.class
+com\kayseri\akillihatanalizoru\entity\Bus.class
